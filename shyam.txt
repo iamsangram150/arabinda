@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 sachin is  a got of cricket .
+=======
+rabi is better student  
+
+>>>>>>> Stashed changes
